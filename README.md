@@ -17,9 +17,9 @@
 
 | MSV | Thành viên  | Đóng góp (%) |
 |---|---|---|
-| 24021420 | **Bạch Công Dũng**  | 40 |
-| 24021372 | **Nguyễn Văn Hoàng Anh** | 30 |
-| 24021396 | **Đặng Danh Công** | 30 |
+| 24021420 | **Bạch Công Dũng**  | 39 |
+| 24021372 | **Nguyễn Văn Hoàng Anh** | 32 |
+| 24021396 | **Đặng Danh Công** | 29 |
 
 ---
 
